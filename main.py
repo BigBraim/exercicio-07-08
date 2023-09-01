@@ -1,8 +1,10 @@
 print ('Escolha entre "número real", "hipotenusa", "sct"(seno, cosseno, tangente), e "sorteios" ')
+print()
 print ('número real: N')
 print ('hipotenusa: H')
 print ('seno, cosseno e tangente: sct')
 print ('sorteios: s')
+print()
 
 nome = input('Escollha entre N, H, SCT, S: ')
 
