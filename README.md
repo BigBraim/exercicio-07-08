@@ -9,7 +9,7 @@
 
 - Número Real
   
-```Se você digitar um número decimal, o código vai imprimir a sua parte inteira ```
+```Se você digitar um número decimal, o código vai imprimir a sua parte inteira```
 
 ![image](https://github.com/BigBraim/exercicio-07-08/assets/79224234/c72c87f1-6a79-4dbe-9126-7ad2dfa314bc)
 
@@ -17,7 +17,7 @@
 
 - Roleta Russa
 
-```Você vai ter que adivinhar um número que o código escolher, mas o código irá te dar dicas logo depois de você digitar um número errado ```
+```Você vai ter que adivinhar um número que o código escolher, mas o código irá te dar dicas logo depois de você digitar um número errado```
 
 ![image](https://github.com/BigBraim/exercicio-07-08/assets/79224234/9b8ee2e5-67f9-42d2-ae1b-f3bc6e35a2ff)
 
@@ -25,7 +25,7 @@
 
 - SCT(Seno, Cosseno e Tangente)
 
-```O código irá te dar o Seno, Cosseno e Tangente de um ângulo ```
+```O código irá te dar o Seno, Cosseno e Tangente de um ângulo```
 
 ![image](https://github.com/BigBraim/exercicio-07-08/assets/79224234/1c926950-fd8e-4afa-8ac0-2b78c8f8e6f4)
 
@@ -33,7 +33,7 @@
 
 - Sorteio Lista
 
-```O código irá sortear um dos quatro nomes escolhidos ```
+```O código irá sortear um dos quatro nomes escolhidos```
 
 ![image](https://github.com/BigBraim/exercicio-07-08/assets/79224234/aec0fcc1-fd48-4170-af80-0c15a843771e)
 
@@ -41,7 +41,7 @@
 
 - Sorteios
 
-```Escolha entre dois tipos de "sorteios" ```
+```Escolha entre dois tipos de "sorteios"```
 
 ![image](https://github.com/BigBraim/exercicio-07-08/assets/79224234/da3e81ba-e06c-44d1-842a-0b5c0020001e)
 
